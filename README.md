@@ -1,8 +1,4 @@
-array operations 
+ NUMPY  OPERATIONS  ON 2-D  ARRAYS
  
  
- numpy operations
- hello
  
- 
- SSSSS
