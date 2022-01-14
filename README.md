@@ -1,2 +1,4 @@
 array operations 
-numpy operations
+ 
+ 
+ numpy operations
